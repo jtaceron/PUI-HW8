@@ -9,9 +9,12 @@ See the finished result at [https://pc-building-101-jaceron.netlify.com/](https:
 --------
 
 Libraries used:
-[Bootstrap](https://www.npmjs.com/package/bootstrap): scaling and responsiveness 
+[Bootstrap](https://www.npmjs.com/package/bootstrap): scaling and responsiveness
+
 [react-spring](https://www.npmjs.com/package/react-spring): physics based animations
+
 [react-typed](https://www.npmjs.com/package/react-typed): typing animations
+
 [wow.js](https://www.npmjs.com/package/wowjs): on-scroll animations
 
 --------
