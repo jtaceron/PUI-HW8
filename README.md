@@ -1,3 +1,21 @@
+# PC Building 101
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f21fe7c2-8d2d-42e0-a227-7abf5542a74b/deploy-status)](https://app.netlify.com/sites/pc-building-101-jaceron/deploys)
+
+This is a single page parallax website about the basic computer parts necessary in building your own personal computer. This website is the final submission for PUI-HW8.
+
+See the finished result at [https://pc-building-101-jaceron.netlify.com/](https://pc-building-101-jaceron.netlify.com/)
+
+--------
+
+Libraries used:
+[Bootstrap](https://www.npmjs.com/package/bootstrap): scaling and responsiveness 
+[react-spring](https://www.npmjs.com/package/react-spring): physics based animations
+[react-typed](https://www.npmjs.com/package/react-typed): typing animations
+[wow.js](https://www.npmjs.com/package/wowjs): on-scroll animations
+
+--------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
