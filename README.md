@@ -9,6 +9,7 @@ See the finished result at [https://pc-building-101-jaceron.netlify.com/](https:
 --------
 
 Libraries used:
+
 [Bootstrap](https://www.npmjs.com/package/bootstrap): scaling and responsiveness
 
 [react-spring](https://www.npmjs.com/package/react-spring): physics based animations
