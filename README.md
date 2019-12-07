@@ -8,7 +8,7 @@ See the finished result at [https://pc-building-101-jaceron.netlify.com/](https:
 
 --------
 
-Libraries used:
+## Libraries used:
 
 [Bootstrap](https://www.npmjs.com/package/bootstrap): scaling and responsiveness
 
@@ -17,6 +17,15 @@ Libraries used:
 [react-typed](https://www.npmjs.com/package/react-typed): typing animations
 
 [wow.js](https://www.npmjs.com/package/wowjs): on-scroll animations
+
+
+## Sources:
+
+https://www.wired.com/story/how-to-build-a-pc/
+
+https://www.newegg.com/insider/building-a-gaming-pc-for-the-first-time-dont-panic-this-guide-can-help-you-out/
+
+https://sites.jmu.edu/103oconnor-16/introduction-to-basic-computer-components-and-functions/
 
 --------
 
