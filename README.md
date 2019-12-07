@@ -6,13 +6,25 @@ This is a single page parallax website about the basic computer parts necessary 
 
 See the finished result at [https://pc-building-101-jaceron.netlify.com/](https://pc-building-101-jaceron.netlify.com/)
 
---------
 
-Libraries used:
-[Bootstrap](https://www.npmjs.com/package/bootstrap): scaling and responsiveness 
+## Libraries used:
+
+[Bootstrap](https://www.npmjs.com/package/bootstrap): scaling and responsiveness
+
 [react-spring](https://www.npmjs.com/package/react-spring): physics based animations
+
 [react-typed](https://www.npmjs.com/package/react-typed): typing animations
+
 [wow.js](https://www.npmjs.com/package/wowjs): on-scroll animations
+
+
+## Sources:
+
+https://www.wired.com/story/how-to-build-a-pc/
+
+https://www.newegg.com/insider/building-a-gaming-pc-for-the-first-time-dont-panic-this-guide-can-help-you-out/
+
+https://sites.jmu.edu/103oconnor-16/introduction-to-basic-computer-components-and-functions/
 
 --------
 
