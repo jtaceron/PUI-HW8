@@ -6,6 +6,8 @@ This is a single page parallax website about the basic computer parts necessary 
 
 See the finished result at [https://pc-building-101-jaceron.netlify.com/](https://pc-building-101-jaceron.netlify.com/)
 
+Video demo [here](https://youtu.be/0ohY92hCnVo)
+
 
 ## Libraries used:
 
